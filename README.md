@@ -20,3 +20,4 @@
 Пакет документов будет регулярно обновляться и дополняться. Актуальная версия документов будет всегда доступна у нас на сайте [по этой ссылке](https://www.buzko.legal/digital/yuridicheskie-dokumenty-dlya-razrabotchikov-igr-i-po).
 
 ## Юридическая оговорка
+[placeholder]
